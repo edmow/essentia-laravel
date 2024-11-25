@@ -24,8 +24,9 @@ Tabela: clientes
 +-------------+-----------------+-----------+
 
 Resumo:
--Framework: Laravel
--Banco de Dados: MySQL
+-Versão do PHP: 8.2.12
+-Framework: Laravel 11.33.2
+-Banco de Dados: MySQL (10.4.32-MariaDB)
 -Funcionalidades: Cadastro, listagem, edição, exclusão de clientes.
 
 Passos para Executar:
